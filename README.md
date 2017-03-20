@@ -1,4 +1,4 @@
-# The Grand React Example
+# The Grand React Picture Gallery
 This is a simple React application,
 made to complement The Grand React blog post.
 
@@ -22,3 +22,5 @@ It is explained using the same characters featured in the post in a "recipe styl
 1. Tell Gallery Slides to react on visitors click event so that he determines the picture order a visitor is trying to open based on `prev` or `next` direction. ([GallerySlides:15](src/GallerySlides.js#L15))
 1. Tell Gallery Slides to update the room state when he finds out the correct picture order ([GallerySlides:22](src/GallerySlides.js#L22))
 1. Open the hotel using `$ npm start`
+
+![The Grand React](https://cdn-images-1.medium.com/max/1600/1*h4gDZeA-Vlb2e0nnDVgt-w.png)

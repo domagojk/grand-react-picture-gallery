@@ -7,7 +7,7 @@ function DisplayAlbum (props) {
     .map(p => p.url)
 
   return (
-    <div className="section-main">
+    <div className="display-album">
       <GallerySlides photos={profilePhotosURLs} />
     </div>
   )
