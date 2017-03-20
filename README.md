@@ -8,7 +8,7 @@ It is explained using the same characters featured in the post in a "recipe styl
 - [Create React App](https://github.com/facebookincubator/create-react-app)
 
 ## Directions
-1. Define new project using `create-react-app grand-react-picture-gallery`
+1. Define new project using `$ create-react-app grand-react-picture-gallery`
 1. Define a hotel state ([index.js:6](src/index.js#L6))
 1. Tell Monsieur Gustave to pass the hotel state as props to Page Wrapper ([index:39](src/index.js#L39))
 1. Tell Page Wrapper to take photos from the props and to forward it to Section Main ([PageWrapper:7](src/PageWrapper.js#L7))
